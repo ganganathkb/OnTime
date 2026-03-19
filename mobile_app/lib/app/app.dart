@@ -12,7 +12,7 @@ class OnTimeApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'On Time',
       theme: AppTheme.light(),
-      initialRoute: AppRoutes.home,
+      initialRoute: AppRoutes.splash,
       routes: AppRoutes.routes,
     );
   }
