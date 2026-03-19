@@ -1,0 +1,18 @@
+# Flutter / Dart
+**/.dart_tool/
+**/.packages
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.metadata
+
+# Android / Firebase sensitive config
+mobile_app/android/app/google-services.json
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
